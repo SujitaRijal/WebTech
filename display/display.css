@@ -1,0 +1,30 @@
+.content{
+    display: inline;    
+}
+
+.content div {
+    display: unset;
+}
+
+.ss{
+    background-color: aqua;
+}
+
+.bb{
+    background-color:blueviolet;
+   
+}
+
+.cc{
+    background-color:brown;
+   
+}
+
+.dd{
+    background-color:chartreuse;
+}
+
+.ee{
+    background-color: aqua;
+   
+}
